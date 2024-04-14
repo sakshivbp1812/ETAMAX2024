@@ -3,6 +3,8 @@
 ## Overview
 This repository contains the code for the Etamax Event website, which is dedicated to showcasing both cultural and technical events at FCRIT college for almost 1600 students. The project was designed in Figma, and its implementation is divided into frontend and backend components.
 
+## Deployed Link - [ETAMAX2024-WEBSITE](https://etamax2024.web.app/)
+
 ## Design
 The design of the website was meticulously crafted using Figma to ensure an attractive and user-friendly interface that reflects the vibrant spirit of our college's cultural and sports events. Link to [Figma](https://www.figma.com/file/5MdKRb0CWvn4rl3jQPPPEd/ETAMAX-24-(Copy)?type=design&node-id=125%3A77&mode=design&t=RoOBiNdkCFBiKQqF-1)
 
@@ -29,17 +31,6 @@ sudo apt-get install certbot
 sudo certbot --nginx
 ```
 Also for development Remote SSH extension was used : https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh
-
-## Team
-This project was brought to life by the collaborative efforts of the following team members:
-- Savio
-- Tahir
-- Mathew
-- Jayesh
-- Aniket
-- Vedant
-- Kousthubh
-- Along with Ideaplots team.
 
 ## Video Demo
 You can watch a video demo of the website below
